@@ -2,7 +2,5 @@ This tool opens a binary bootloader file and reads every byte. It extracts reada
 
 Usage:
 
-python decode.py <firmware_file>
-
 # Example:
 python3 decode.py abl.elf
